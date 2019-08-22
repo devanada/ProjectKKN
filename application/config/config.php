@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://ec2-54-82-244-207.compute-1.amazonaws.com/kknumm/';
+$config['base_url'] = 'http://3.208.97.228/kknumm/';
 
 /*
 |--------------------------------------------------------------------------

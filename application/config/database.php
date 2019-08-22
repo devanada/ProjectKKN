@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'DBKKN',
+	'hostname' => 'dbkkn.csnymobmecmr.us-east-1.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => '123456789',
+	'database' => 'dbkkn',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
