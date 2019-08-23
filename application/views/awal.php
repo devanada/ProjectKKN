@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>SIMKKN UMM</title>
+  <title>SIMKKN</title>
 
   <!-- Bootstrap -->
   <link href="<?php echo base_url();?>lib/assets/css/bootstrap.css" rel="stylesheet">
@@ -49,8 +49,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
-          <h1>SIM KKN UNIVERSITAS MUHAMMADIYAH MALANG</h1>
-          <h2 class="subtitle">SELAMAT DATANG DI SISTEM INFORMASI KKN UMM</h2>
+          <h1>SIM KKN</h1>
+          <h2 class="subtitle">SELAMAT DATANG DI SISTEM INFORMASI KKN</h2>
           <form class="form-inline signup" role="form">
             <div class="form-group">
               <button  class="btn btn-theme"><a href="<?php echo base_url();?>index.php/Pendaftaran/registrasi">pendaftaran</a></button>
@@ -70,7 +70,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-5">
-          <p> <h4 style="color: white"> SIMKKN Terpadu 2017/2018 </h4> </p>
+          <p> <h4 style="color: white"> SIMKKN Terpadu 2019/2020 </h4> </p>
         </div>
       </div>
     </div>
